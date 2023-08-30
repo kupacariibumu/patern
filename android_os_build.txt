@@ -1,5 +1,7 @@
 android.os.Build.VERSION.SDK_INT
 android.os.Build.VERSION_CODES.HONEYCOMB
+android.os.Build.VERSION_CODES.ICE_CREAM_SANDWICH
+android.os.Build.VERSION_CODES.KITKAT
 android.os.Build.VERSION_CODES.JELLY_BEEN
 android.os.Build.VERSION_CODES.JELLY_BEEN_MR1
 android.os.Build.VERSION_CODES.LOLLIPOP
